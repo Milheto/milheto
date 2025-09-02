@@ -1,6 +1,6 @@
 My name is Thales and I'm looking to learn more about programming languages.
 
-![Thales's GitHub stats](https://github-readme-stats.vercel.app/api?username=milheto&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milheto&layout=compact&theme=radical)
+//![Thales's GitHub stats](https://github-readme-stats.vercel.app/api?username=milheto&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milheto&layout=compact&theme=radical)
 
 
   
